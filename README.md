@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnnesCorynga
 - 👀 I’m interested in  aprender programar.
-- 🌱 I’m currently learning  HTML5, CS3 e JavaScript
+- 🌱 I’m currently  Trabalhando com as linguagens HTML, CSS, JavaScript  e PHP.
 - 💞️ I’m looking to collaborate on  em uma  pagina web
 - 📫 How to reach me  intagram  @ravier_eros_oficial.
 
