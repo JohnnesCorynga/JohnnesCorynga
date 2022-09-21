@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErosRavier S.Aragão
-- 👀 I’m interested in  aprender programar.
+- 👀 I’m interested in programar.
 - 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript  e PHP.
 - 💞️ I’m looking to collaborate on  em uma  pagina web
 - 📫 How to reach me  intagram  @ravier_eros_oficial.
-- Meu perfio no linkedim https://www.linkedin.com/in/eros-ravier-silva-arag%C3%A3o-511526196/
+- My profile on linkedim https://www.linkedin.com/in/eros-ravier-silva-arag%C3%A3o-511526196/
