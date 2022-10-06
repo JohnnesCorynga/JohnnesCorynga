@@ -3,4 +3,4 @@
 - 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript  e PHP.
 - 💞️ I’m looking to collaborate on  em uma  pagina web
 - 📫 How to reach me  intagram  @ravier_eros_oficial.
-- My profile on linkedim https://www.linkedin.com/in/eros-ravier-silva-arag%C3%A3o-511526196/
+- My profile on linkedim https://www.linkedin.com/in/eros-ravier-silva-aragao-511526196/
