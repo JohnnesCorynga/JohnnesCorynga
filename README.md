@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Eros Ravier S. Aragão
-- 👀 I’m interested in programar.
+- ## Oiii pessoal 👋 Hi, I’m Eros Ravier S. Aragão sou developer !
+- 👀 I’m interested in programação e tecnologia.
 - 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript, PHP e MySQL.
 - 💞️ I’m looking to collaborate on  em uma  pagina web
 - 📫 How to reach me  intagram  @ravier_eros_oficial.
@@ -13,7 +13,7 @@
 
 ## Ferramentas e Tecnologias
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
