@@ -1,4 +1,4 @@
-- ##👋 Oiii pessoal Hi, I’m Eros Ravier S. Aragão sou developer !
+## 👋 Oiii pessoal Hi, I’m Eros Ravier S. Aragão sou developer !
 - 👀 I’m interested in programação e tecnologia.
 - 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript, PHP e MySQL.
 - 💞️ I’m looking to collaborate on  em uma  pagina web
