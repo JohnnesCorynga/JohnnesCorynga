@@ -1,7 +1,7 @@
 ## 👋 Oiii pessoal Hi, I’m Eros Ravier sou developer FullStack!
 - 👀 I’m interested in programação e tecnologia.
-- 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript, PHP e MySQL.
-- 💞️ I’m looking to collaborate on  em uma  pagina web
+- 🌱 I’m currently  Trabalhando com as Tecnológias HTML, CSS, JavaScript, ReactJs, Sass, Php EMySQL. 
+- 💞️ I’m looking to collaborate on  projetos reais e com possibilidade de maior aprendizado.
 
 ## Minhas redes
 
