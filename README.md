@@ -44,10 +44,8 @@
   <img  align="center" alt="Eros-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" />
   
   <img  align="center" alt="Eros-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Eros-PM2" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pm2/pm2-original.svg" />
   <img align="center" alt="Eros-Docker Compose" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <!-- Remova a linha a seguir se não houver um ícone específico para websocket no devicons -->
-  <img align="center" alt="Eros-WebSocket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" />
+  <img align="center" alt="Eros-WebSocket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" />
 
   <img align="center" alt="Eros-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="Eros-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
