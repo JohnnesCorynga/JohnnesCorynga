@@ -44,6 +44,10 @@
   <img  align="center" alt="Eros-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" />
   
   <img  align="center" alt="Eros-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  
+  <img align="center" alt="Eros-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pm2/pm2-original.svg" />
+  <img align="center" alt="Eros-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dockercompoose/dockercompoose-original.svg" />
+
   <img align="center" alt="Eros-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="Eros-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img align="center" alt="Eros-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
