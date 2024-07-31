@@ -25,7 +25,7 @@
   <img align="center" alt="Eros-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img  align="center" alt="Eros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   
-  <img  align="center" alt="Eros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg" />
+  <img  align="center" alt="Eros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pg/pg-original.svg" />
   <img  align="center" alt="Eros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
   
   <img align="center" alt="Eros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,7 +37,7 @@
 ## Conhecimentos Adicionais em:
  
  <div style="display: inline_block"><br>
-    <img  align="center" alt="Eros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" />
+    <img  align="center" alt="Eros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
    <img align="center" alt="Eros-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="Eros-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img align="center" alt="Eros-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
